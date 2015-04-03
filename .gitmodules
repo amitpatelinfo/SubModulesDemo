@@ -1,0 +1,6 @@
+[submodule "SubModulesClient"]
+	path = SubModulesClient
+	url = git@github.com:amitpatelinfo/SubModulesClient.git
+[submodule "SubModulesService"]
+	path = SubModulesService
+	url = git@github.com:amitpatelinfo/SubModulesService.git
